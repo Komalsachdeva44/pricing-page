@@ -3,35 +3,6 @@
   body {  
     font-family:Inter,sans-serif;
   }  
-body { 
-/* CSS Variables that may have been missed get put on body */ 
-    --size-border-width:  0.125rem;  
-    --size-font:  0.75rem;  
-    --size-font-weight:  500;  
-    --size-block-size:  2rem;  
-    --size-gap:  0.25rem;  
-    --size-padding-inline-start:  0;  
-    --size-padding-inline-end:  0;  
-    --size-padding-inline-start-text:  1rem;  
-    --size-padding-inline-end-text:  1rem;  
-    --size-border-radius:  0.5rem;  
-    --size-padding-block-text:  0.6875rem;  
-    --color-border:  transparent;  
-    --size-block-size:  3rem;  
-    --size-padding-block-text:  1rem;  
-    --size-font:  1rem;  
-    --size-gap:  0.5rem;  
-    --color-background:  #1a1a1a;  
-    --color-text:  #fff;  
-    --color-background-hover:  #333;  
-    --color-background:  #5f5de4;  
-    --color-text:  #fff;  
-    --color-background-hover:  #4b4aa1;  
-    --color-text:  #1a1a1a;  
-    --color-accent:  #5f5de4;  
-    --color-accent:  #017055; 
-    --color-text:  #fff; 
-} 
 
 * { 
     font-family: Inter,sans-serif;
